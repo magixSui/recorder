@@ -178,6 +178,7 @@ export default {
   align-items: center;
   justify-content: center;
   margin:2px;
+  user-select:none;
 }
 .double-width {
   width:336px;
@@ -214,6 +215,7 @@ export default {
   cursor:pointer;
   font-size:12px;
   padding:2px 4px;
+  user-select:none;
 }
 .item {
   display:flex;

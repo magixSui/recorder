@@ -5,8 +5,9 @@ recorder-win32-arm64
 recorder-win32-ia32
 recorder-win32-x64
 /front/node_modules
+/front/dist
 
-*.lock
+*.zip
 # local env files
 .env.local
 .env.*.local

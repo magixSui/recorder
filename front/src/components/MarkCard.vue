@@ -77,6 +77,7 @@ export default {
   cursor: pointer;
   color:#fff;
   border-radius: 3px;
+  user-select:none;
 }
 .btn-container {
   display:flex;
@@ -93,5 +94,6 @@ export default {
   cursor:pointer;
   font-size:12px;
   padding:1px 4px;
+  user-select:none;
 }
 </style>
